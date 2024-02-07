@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 276,
+    "timeDay": 276,
+    "timeWeek": 276,
+    "timeMonth": 276,
+    "timeYear": 276,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "API",
-    "url": "https://api.mindjoy.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/api.mindjoy.com.ico",
-    "slug": "api",
-    "status": "down",
-    "uptime": "6.67%",
-    "uptimeDay": "6.67%",
-    "uptimeWeek": "6.67%",
-    "uptimeMonth": "6.67%",
-    "uptimeYear": "6.67%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
-    "dailyMinutesDown": {
-      "2024-02-07": 0
-    }
   }
 ]
