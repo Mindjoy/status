@@ -1,6 +1,5 @@
-# Change these first
-owner: Mindjoy # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: Mindjoy
+repo: status
 
 sites:
   - name: Website
@@ -17,10 +16,9 @@ assignees:
 status-website:
   # cname: status.mindjoy.com
   baseUrl: /status
-  logoUrl: https://beta.mindjoy.com/mindjoy-logo.svg
-  favicon: https://beta.mindjoy.com/favicon.ico
+  logoUrl: https://raw.githubusercontent.com/Mindjoy/status/master/assets/logo.svg
+  favicon: https://raw.githubusercontent.com/Mindjoy/status/master/assets/favicon.ico
   name: Status
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Welcome to Mindjoy's status page .
   navbar:
     - title: Status
