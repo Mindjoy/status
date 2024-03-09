@@ -4,19 +4,19 @@
     "url": "https://mindjoy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mindjoy.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 64,
-    "timeWeek": 111,
-    "timeMonth": 162,
-    "timeYear": 182,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 183,
+    "timeDay": 142,
+    "timeWeek": 125,
+    "timeMonth": 164,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-03-09": 0
+      "2024-03-09": 7
     }
   },
   {
