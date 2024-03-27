@@ -1,9 +1,9 @@
 [
   {
-    "name": "Website",
+    "name": "www.mindjoy.com",
     "url": "https://mindjoy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mindjoy.com.ico",
-    "slug": "website",
+    "slug": "www.mindjoy.com",
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
@@ -20,10 +20,10 @@
     }
   },
   {
-    "name": "App",
+    "name": "beta.mindjoy.com",
     "url": "https://beta.mindjoy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beta.mindjoy.com.ico",
-    "slug": "app",
+    "slug": "beta.mindjoy.com",
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "99.15%",
@@ -40,9 +40,9 @@
     }
   },
   {
-    "name": "API",
+    "name": "Platform",
     "url": "$API_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/beta.mindjoy.com.ico",
     "slug": "api",
     "status": "up",
     "uptime": "99.67%",
