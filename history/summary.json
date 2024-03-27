@@ -1,6 +1,6 @@
 [
   {
-    "name": "Website",
+    "name": "www.mindjoy.com",
     "url": "https://mindjoy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mindjoy.com.ico",
     "slug": "website",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "App",
+    "name": "beta.mindjoy.com",
     "url": "https://beta.mindjoy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beta.mindjoy.com.ico",
     "slug": "app",
@@ -40,9 +40,9 @@
     }
   },
   {
-    "name": "API",
+    "name": "Platform",
     "url": "$API_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "icon": "https://icons.duckduckgo.com/ip3/beta.mindjoy.com.ico",
     "slug": "api",
     "status": "up",
     "uptime": "99.78%",
