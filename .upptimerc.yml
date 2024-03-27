@@ -2,11 +2,11 @@ owner: Mindjoy
 repo: status
 
 sites:
-  - name: www.mindjoy.com
+  - name: Website
     url: https://mindjoy.com/
-  - name: beta.mindjoy.com
+  - name: App
     url: https://beta.mindjoy.com/
-  - name: Platform
+  - name: API
     url: $API_URL
 
 assignees:
@@ -14,11 +14,14 @@ assignees:
   - EthanMarrs
 
 status-website:
+  # baseUrl: /status
   cname: status.mindjoy.com
   logoUrl: https://raw.githubusercontent.com/Mindjoy/status/master/assets/logo.svg
   favicon: https://raw.githubusercontent.com/Mindjoy/status/master/assets/favicon.ico
   name: Status
-  theme: ocean
-
-i18n:
-  footer:
+  introMessage: Welcome to Mindjoy's status page .
+  navbar:
+    - title: Status
+      href: /
+    - title: Mindjoy
+      href: https://mindjoy.com/
