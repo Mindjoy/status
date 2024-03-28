@@ -18,4 +18,4 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/Mindjoy/status/master/assets/logo.svg
   favicon: https://raw.githubusercontent.com/Mindjoy/status/master/assets/favicon.ico
   name: Status
-  theme: ocean
+  theme: light
