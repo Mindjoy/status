@@ -17,8 +17,5 @@ status-website:
   cname: status.mindjoy.com
   logoUrl: https://raw.githubusercontent.com/Mindjoy/status/master/assets/logo.svg
   favicon: https://raw.githubusercontent.com/Mindjoy/status/master/assets/favicon.ico
-  theme: light
-  name: Mindjoy Status
-
-i18n:
-  footer: null
+  name: Status
+  theme: ocean
