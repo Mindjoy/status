@@ -21,4 +21,4 @@ status-website:
   name: Mindjoy Status
 
 i18n:
-  footer:
+  footer: null
