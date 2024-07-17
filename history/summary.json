@@ -4,7 +4,7 @@
     "url": "https://mindjoy.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mindjoy.com.ico",
     "slug": "www-mindjoy-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 433,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2024-07-17": 0,
       "2024-06-08": 7,
       "2024-05-18": 7,
       "2024-05-16": 8,
